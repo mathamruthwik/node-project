@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node test.js"
+    "build": "node --check app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
